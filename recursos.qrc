@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>icono.png</file>
+        <file>titulo.png</file>
+    </qresource>
+    <qresource prefix="/sonidos">
+        <file>colocado.mp3</file>
+        <file>fin.mp3</file>
+        <file>tick.mp3</file>
+    </qresource>
+</RCC>
